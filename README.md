@@ -10,4 +10,4 @@ of the player will be displayed on the graphs and cards which i made
 
 here is an enlarged view
 
-![](videos/Screenshot(710).png)
+![](videos/powerbi.png)
